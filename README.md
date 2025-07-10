@@ -6,7 +6,6 @@
   
 
 
-```markdown
 # Dr. Guilherme de Camargo 👨‍🔬🌌📊
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8913--9419-green.svg)](https://orcid.org/0009-0004-8913-9419)
@@ -280,7 +279,6 @@ health_tech = ['FHIR', 'HL7', 'Medical imaging', 'Real-time monitoring']
 *"Where healthcare data science meets theoretical cosmology - developing unified approaches to understanding complex systems."*
 
 **Last updated**: July 10, 2025 | **Current Status**: Phase 3.5 Complete ✅ | MedSuite AI Development 🚀
-```
 
 
 A combinação única de medicina de emergência + ciência de dados + física teórica realmente se destaca! Quer algum ajuste específico?
