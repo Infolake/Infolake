@@ -54,7 +54,7 @@ This paper applies the GoE framework to solve the central problem of decoherence
 <div align="center">
   <a href="https://github.com/Infolake/geometrodynamics-of-entropy/blob/main/articles/quantum_computing/goe_quantum_computing_arxiv.pdf">
     <!-- Substitua 'URL_DA_IMAGEM_DO_ARTIGO' pelo link para uma imagem da primeira página do seu PDF -->
-    <img src="URL_DA_IMAGEM_DO_ARTIGO" alt="A Geometric Foundation for Quantum Computing" width="80%">
+    <img src="https://github.com/Infolake/geometrodynamics-of-entropy/blob/main/articles/quantum_computing/cover.png" alt="A Geometric Foundation for Quantum Computing" width="40%">
   </a>
 </div>
 
